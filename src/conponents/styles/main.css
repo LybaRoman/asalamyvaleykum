@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    padding: 5px;
+    margin: 50px 0px  0px 200px;
+    width: 70%;
+    color: rgb(5, 127, 97);
+    border: 3px solid rgb(5, 127, 97);;
+
+}
+
+.title {
+    font-size: 18px;
+    text-align: left;
+    
+    padding-bottom: 15px;
+  
+
+    
+}
+
+.description{
+ font-size: 18px;
+}
+.like{
+
+    
+    font-size: 20px;
+    display: flex;
+    margin:5px ;
+    padding: 0px 20%;
+}
+.likes{
+    margin: 0px 55px 0px 0px;
+}
+.dislikes{
+    margin: 0px 0px 0px 55px; 
+}
+.button{
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+     /* margin:0px 700px; */
+}
+.bb{
+    margin: 0px 30px;
+    background-color: rgb(5, 127, 97);
+    font-size: 14px;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+}
+.t{
+    margin: 50px 200px;
+    font-size: 50px;
+    color: rgb(28, 92, 76);
+}
+form{
+    display: block;
+}
+.r{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
